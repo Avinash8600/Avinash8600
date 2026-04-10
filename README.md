@@ -1,5 +1,13 @@
+<p align="center">
+  <img src="https://i.imgur.com/your-banner.png" alt="banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Avinash Wagh</h1>
 <h3 align="center">🚀 DevOps Engineer | AWS | Kubernetes | CI/CD | Automation Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AWS+%7C+Kubernetes+%7C+CI%2FCD;Automation+%7C+Cloud+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
 <p align="center">
 ⚡ Building scalable cloud infrastructure | Automating deployments | Learning & growing in DevOps
@@ -9,9 +17,9 @@
 
 ## 🧑‍💻 About Me
 - 💼 Software Engineer with **2.5+ years** experience in .NET & industrial systems  
-- 🔄 Successfully transitioning into **DevOps & Cloud Engineering**  
+- 🔄 Transitioning into **DevOps & Cloud Engineering**  
 - ☁️ Hands-on with **AWS, Docker, Kubernetes, CI/CD pipelines**  
-- ⚙️ Focused on **automation, system reliability & scalable architecture**  
+- ⚙️ Focused on **automation, scalability & system reliability**  
 - 🎯 Actively seeking **DevOps / Cloud Engineer opportunities**
 
 ---
@@ -50,11 +58,20 @@
 
 ---
 
+## 🚧 Current Focus
+- 🚀 Building real-world DevOps projects  
+- ⚙️ Improving CI/CD pipeline automation  
+- ☁️ Hands-on AWS cloud deployments  
+- 📈 Preparing for DevOps Engineer roles  
+
+---
+
 ## 📚 Currently Learning & Improving
-- 🔹 Infrastructure as Code (Terraform)  
-- 🔹 Advanced Kubernetes (Helm, Ingress)  
-- 🔹 CI/CD pipelines (GitHub Actions & Jenkins)  
-- 🔹 Monitoring (Prometheus, Grafana)
+- 🔹 Terraform (Infrastructure as Code)  
+- 🔹 Kubernetes Advanced (Helm, Ingress, Scaling)  
+- 🔹 CI/CD Automation (GitHub Actions, Jenkins)  
+- 🔹 Monitoring & Observability (Prometheus, Grafana)  
+- 🔹 AWS Architecture & Best Practices  
 
 ---
 
@@ -63,6 +80,28 @@
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Avinash8600&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=Avinash8600&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Avinash8600&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avinash8600&theme=tokyo-night" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Avinash8600&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -77,9 +116,23 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: http://linkedin.com/in/avinashwagh-
-- 📧 Email: avinashwagh745@gmail.com  
-- 💻 GitHub: https://github.com/Avinash8600  
+<p align="center">
+  <a href="http://linkedin.com/in/avinashwagh-">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:avinashwagh745@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/Avinash8600">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://happenstance.ai/u/avinashdevops">
+    <img src="https://img.shields.io/badge/Happenstance-Profile-purple?style=for-the-badge&logo=internet-explorer" />
+  </a>
+  <a href="https://dev.to/avinashwagh">
+    <img src="https://img.shields.io/badge/Dev.to-Blog-black?style=for-the-badge&logo=dev.to" />
+  </a>
+</p>
 
 ---
 
