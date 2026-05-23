@@ -6,7 +6,7 @@
 <h3 align="center">🚀 DevOps Engineer | AWS | Kubernetes | CI/CD | Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AWS+%7C+Kubernetes+%7C+CI%2FCD;Automation+%7C+Cloud+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=#B87333&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AWS+%7C+Kubernetes+%7C+CI%2FCD;Automation+%7C+Cloud+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
