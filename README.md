@@ -16,7 +16,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 💼 Software Engineer with **2.5+ years** experience in .NET & industrial systems  
+- 💼 Software Engineer with **3+ years** experience in .NET & industrial systems  
 - 🔄 Transitioning into **DevOps & Cloud Engineering**  
 - ☁️ Hands-on with **AWS, Docker, Kubernetes, CI/CD pipelines**  
 - ⚙️ Focused on **automation, scalability & system reliability**  
